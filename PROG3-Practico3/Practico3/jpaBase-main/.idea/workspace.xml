@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0cd6083-55ed-46ce-ab81-39e21738d188" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/workspace-id.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Albertojpa.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Albertojpa.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/org.example.Albertojpa.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/funciones/FuncionApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/funciones/FuncionApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/managers/ClienteManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/managers/ClienteManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/managers/FacturaManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/managers/FacturaManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/managers/MainConsultasJPQL.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/managers/MainConsultasJPQL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/Articulo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/Articulo$ArticuloBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/Articulo$ArticuloBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/Articulo$ArticuloBuilderImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/Articulo$ArticuloBuilderImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/Articulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/Articulo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/ArticuloInsumo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/ArticuloInsumo$ArticuloInsumoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/ArticuloInsumo$ArticuloInsumoBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/ArticuloInsumo$ArticuloInsumoBuilderImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/ArticuloInsumo$ArticuloInsumoBuilderImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/ArticuloInsumo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/ArticuloInsumo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/ArticuloManufacturado$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/ArticuloManufacturado$ArticuloManufacturadoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/ArticuloManufacturado$ArticuloManufacturadoBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/ArticuloManufacturado$ArticuloManufacturadoBuilderImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/ArticuloManufacturado$ArticuloManufacturadoBuilderImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/ArticuloManufacturado.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/ArticuloManufacturado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/ArticuloManufacturadoDetalle$ArticuloManufacturadoDetalleBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/ArticuloManufacturadoDetalle$ArticuloManufacturadoDetalleBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/ArticuloManufacturadoDetalle.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/ArticuloManufacturadoDetalle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/Categoria$CategoriaBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/Categoria$CategoriaBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/Categoria.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/Categoria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/Cliente$ClienteBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/Cliente$ClienteBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/Cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/Factura$FacturaBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/Factura$FacturaBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/Factura.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/Factura.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/FacturaDetalle$FacturaDetalleBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/FacturaDetalle$FacturaDetalleBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/FacturaDetalle.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/FacturaDetalle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/Imagen$ImagenBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/Imagen$ImagenBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/Imagen.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/Imagen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/UnidadMedida$UnidadMedidaBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/UnidadMedida$UnidadMedidaBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/UnidadMedida.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/UnidadMedida.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/funciones/FuncionApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/funciones/FuncionApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/managers/ClienteManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/managers/ClienteManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/managers/FacturaManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/managers/FacturaManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/managers/MainConsultasJPQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/managers/MainConsultasJPQL.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AilenCarretero&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gerardomagni/jpqlquerys.git&quot;,
+    &quot;accountId&quot;: &quot;b5735412-07d2-46d1-af56-f1d02987641e&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="31sIhkNp45OwnZboEm1evSdt3kR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.jpaBase-main [:managers.MainConsultasJPQL.main()].executor": "Run",
+    "Gradle.jpaBase-main [:org.example.Main.main()].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Documentos/Facultad/Semestre III/Programación III/Prácticos/Práctico n°3/Practico3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.419" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.419" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0cd6083-55ed-46ce-ab81-39e21738d188" name="Changes" comment="" />
+      <created>1756306475064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756306475064</updated>
+      <workItem from="1756306476171" duration="77000" />
+      <workItem from="1756306559473" duration="1374000" />
+      <workItem from="1756319338347" duration="750000" />
+      <workItem from="1756343893135" duration="3819000" />
+      <workItem from="1756393472816" duration="6000" />
+      <workItem from="1756394037264" duration="155000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
